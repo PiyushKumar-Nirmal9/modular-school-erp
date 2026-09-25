@@ -29,10 +29,10 @@ A lightweight, terminal-based enterprise management system written in modular Py
    git clone [https://github.com/PiyushKumar-Nirmal9/modular-school-erp.git](https://github.com/PiyushKumar-Nirmal9/modular-school-erp.git)
    cd modular-school-erp
 2. python3 --version
-   python3 main.py 
+3.  python3 main.py 
 ---
 
-### 3. Check for Missing Code Files in the Repository
+### 4. Check for Missing Code Files in the Repository
 
 Looking at your files list[span_16](start_span)[span_16](end_span)[span_17](start_span)[span_17](end_span):
 * You have `main.py`, `utils.py`, `config.py`, `student.py`, `teacher.py`, `library.py`, `transport.py`, `fee.py`, and `class_analytics.py`[span_18](start_span)[span_18](end_span)[span_19](start_span)[span_19](end_span).
@@ -40,7 +40,7 @@ Looking at your files list[span_16](start_span)[span_16](end_span)[span_17](star
 
 ---
 
-### 4. Required Next Step: Project Report Submission (PDF)
+### 5. Required Next Step: Project Report Submission (PDF)
 
 The GitHub repository accounts for **10%** of your grade[span_22](start_span)[span_22](end_span). According to **Section 6 & 7 (Evaluation Rubric)**, you still need to complete the **Project Report PDF (20%)** and submit it to the portal[span_23](start_span)[span_23](end_span). 
 
