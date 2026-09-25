@@ -16,3 +16,33 @@ A lightweight, terminal-based enterprise management system written in modular Py
 - **Portability & Zero Dependencies:** Operates entirely on Python 3 standard libraries with no third-party package dependencies.
 - **Data Persistence:** Text-based flat-file storage ensuring state retention across user sessions.
 - **Input Robustness & Validation:** Type checking, strict ID formatting (e.g., `S` prefix for students, `T` for teachers), and graceful error recovery.
+
+## Technologies Used
+- **Language:** Python 3 (standard library only)
+- **Data Persistence:** Plain-text flat files with pipe-delimited records (`.txt`)
+- **Version Control:** Git & GitHub
+
+## Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/PiyushKumar-Nirmal9/modular-school-erp.git](https://github.com/PiyushKumar-Nirmal9/modular-school-erp.git)
+   cd modular-school-erp
+2. python3 --version
+   python3 main.py 
+---
+
+### 3. Check for Missing Code Files in the Repository
+
+Looking at your files list[span_16](start_span)[span_16](end_span)[span_17](start_span)[span_17](end_span):
+* You have `main.py`, `utils.py`, `config.py`, `student.py`, `teacher.py`, `library.py`, `transport.py`, `fee.py`, and `class_analytics.py`[span_18](start_span)[span_18](end_span)[span_19](start_span)[span_19](end_span).
+* Check that **all** `.py` files inside the repository were uploaded with the `sys.path.insert(...)` fix so the evaluator encounters no import issues when running `python3 main.py`[span_20](start_span)[span_20](end_span)[span_21](start_span)[span_21](end_span).
+
+---
+
+### 4. Required Next Step: Project Report Submission (PDF)
+
+The GitHub repository accounts for **10%** of your grade[span_22](start_span)[span_22](end_span). According to **Section 6 & 7 (Evaluation Rubric)**, you still need to complete the **Project Report PDF (20%)** and submit it to the portal[span_23](start_span)[span_23](end_span). 
+
+Ensure your report includes the 15 required sections (System Architecture, Use Case / Sequence / Workflow Diagrams, and Screenshots)[span_24](start_span)[span_24](end_span).
+
