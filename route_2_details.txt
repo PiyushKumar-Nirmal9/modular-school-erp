@@ -1,0 +1,10 @@
+=========================================
+ROUTE DETAILS: Route-2
+Bus Number    : MP-04-B-1002
+Driver Name   : Suresh Verma
+Driver Contact: 9823456781
+=========================================
+ENROLLED STUDENTS:
+SID       Name                Class-Sec   
+------------------------------------------
+S102      Bhavna Sharma       10-A           

@@ -1,0 +1,10 @@
+=========================================
+ROUTE DETAILS: Route-3
+Bus Number    : MP-04-B-1003
+Driver Name   : Mahesh Patel
+Driver Contact: 9811223344
+=========================================
+ENROLLED STUDENTS:
+SID       Name                Class-Sec   
+------------------------------------------
+S201      Farhan Akhtar       10-B           

@@ -1,0 +1,10 @@
+=========================================
+ROUTE DETAILS: Route-4
+Bus Number    : MP-04-B-1004
+Driver Name   : Rajesh Yadav
+Driver Contact: 9755443322
+=========================================
+ENROLLED STUDENTS:
+SID       Name                Class-Sec   
+------------------------------------------
+S203      Hardik Mehta        10-B           

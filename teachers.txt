@@ -1,0 +1,5 @@
+T101|Dr. Alok Nath|9876500001|alok.nath@school.edu|10-A, 10-B|Mathematics|15-06-2018|58000.00
+T102|Sunita Rao|9876500002|sunita.rao@school.edu|10-A, 9-A|Physics|01-08-2020|52000.00
+T103|Pooja Saxena|9876500003|pooja.saxena@school.edu|10-A, 10-B, 9-B|English|10-01-2019|49000.00
+T104|Vikram Malhotra|9876500004|vikram.m@school.edu|10-B, 9-A|Chemistry|12-07-2021|51000.00
+T105|Anita Deshmukh|9876500005|anita.d@school.edu|9-A, 9-B|Computer Science|20-03-2022|47500.00

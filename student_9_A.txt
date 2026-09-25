@@ -1,0 +1,2 @@
+S301|Isha Kaur|02-04-2011|9|A|9123456789|Gurpreet Kaur;9911223344;Designer|isha@gmail.com|School Transportation (Route-1)|Science:91.0,Computers:94.0,English:88.0|91.0|91.0|A+
+S302|Jayesh Pillai|18-10-2010|9|A|9234567890|Murugan Pillai;9922334455;Professor|jayesh@gmail.com|Self|Science:78.0,Computers:82.0,English:79.0|79.67|79.67|B

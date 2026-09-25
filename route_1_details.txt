@@ -1,0 +1,12 @@
+=========================================
+ROUTE DETAILS: Route-1
+Bus Number    : MP-04-B-1001
+Driver Name   : Ramesh Sharma
+Driver Contact: 9876543210
+=========================================
+ENROLLED STUDENTS:
+SID       Name                Class-Sec   
+------------------------------------------
+S101      Aarav Gupta         10-A           
+S105      Eshan Roy           10-A           
+S301      Isha Kaur           9-A           

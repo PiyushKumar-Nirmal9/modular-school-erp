@@ -1,0 +1,5 @@
+B101|Concepts of Physics Vol 1|H.C. Verma|10|8
+B102|Higher Engineering Mathematics|B.S. Grewal|5|0
+B103|To Kill a Mockingbird|Harper Lee|6|5
+B104|Python Programming Fundamentals|Mark Lutz|8|7
+B105|General Organic Chemistry|O.P. Tandon|4|4

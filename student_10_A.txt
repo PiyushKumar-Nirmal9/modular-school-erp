@@ -1,0 +1,5 @@
+S101|Aarav Gupta|14-05-2010|10|A|9111222333|Rakesh Gupta;9822334455;Engineer|aarav@gmail.com|School Transportation (Route-1)|Maths:98.0,Physics:96.0,English:95.0|96.33|96.33|A+
+S102|Bhavna Sharma|22-09-2009|10|A|9222333444|Dinesh Sharma;9833445566;Teacher|bhavna@gmail.com|School Transportation (Route-2)|Maths:72.0,Physics:78.0,English:74.0|74.67|74.67|B
+S103|Chetan Patel|03-12-2009|10|A|9333444555|Harish Patel;9844556677;Businessman|chetan@gmail.com|Self|Maths:88.0,Physics:84.0,English:99.0|90.33|90.33|A+
+S104|Diya Verma|19-01-2010|10|A|9444555666|Pawan Verma;9855667788;Accountant|diya@gmail.com|Self|N/A|N/A|N/A|N/A
+S105|Eshan Roy|07-08-2009|10|A|9555666777|Manoj Roy;9866778899;Doctor|eshan@gmail.com|School Transportation (Route-1)|Maths:35.0,Physics:42.0,English:38.0|38.33|38.33|F
