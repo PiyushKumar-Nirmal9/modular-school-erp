@@ -70,7 +70,7 @@ def display_section_subject_toppers():
 
     subject_toppers = {}
     for s in students:
-        if not s["subjects"] or s["subjects"] == "N/A":
+        if "subjects" not in s or not s["subjects"] or s["subjects"] == "N/A":
             continue
         entries = s["subjects"].split(",")
         for item in entries:
