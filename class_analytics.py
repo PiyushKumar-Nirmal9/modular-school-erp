@@ -33,7 +33,7 @@ def get_section_students(c_name, s_name):
                     "id": parts[0],
                     "name": parts[1],
                 })
-    return students2
+    return students
 
 def display_section_students_names():
     c_name = input("\nEnter Class (e.g. 10): ").strip()
