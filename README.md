@@ -38,15 +38,10 @@ python3 --version
 python3 main.py
 ```
 ## Instructions for Testing
-
-1. **Student Module:** 
-   - Select option `1` -> `1` to add a new student (e.g., SID `S101`, Class `10`, Section `A`).
-   - Select option `1` -> `2` for Class `10` and Section `A` to view the student profile and calculated grades.
-2. **Library Validation:**
-   - Select option `3` -> `3` to issue a book. Test with an unregistered borrower ID to verify validation failure.
-   - Enter a registered ID (`S101` or a registered Faculty ID) to verify issuance and inventory deduction.
-3. **Transport Synchronization:**
-   - Add a student with the `School Transportation` option enabled.
-   - Select option `4` -> `3` to inspect the dedicated `route_<num>_details.txt` file and confirm the student appears on the passenger manifest.
-4. **Class Analytics:**
-   - Select option `6` -> `2` and `6` -> `3` for Class `10` Section `A` to test subject topper extractions and section ranking distribution.
+-**Follow these sequential test scenarios to verify the application:**
+-**Transport Setup:** Go to 4. Transport then‬ 1. Add Route. Enter Route 1, a bus number, and driver details. Verify that transport_routes.txt and route_1_details.txt are created.
+-**Student Admission:** Go to 1. Student ‭then 1. Add New Student. Enter Class 10, Section A, and ID 101 (it auto-formats to S101). Choose School Transport Route 1 and enter marks. Verify that student_10_A.txt is updated and route_1_details.txt displays the student.
+-**Validation & Duplicate Prevention:** Try re-adding a student with ID S101. Verify the system blocks it with an error message.
+-**Faculty & Salary:** Go to 2. Teacher then1. Add Faculty. Enter details with ID 501 (formats to T501). Test the salary hike via Option 4 and verify the updated salary in teachers.txt.
+-**Library Issue/Return:** Go to 3. Library then1. Add Book. Attempt to issue it to an invalid ID (e.g., S999) to confirm validation fails, then issue it to S101 to confirm stock decrements. Return the book to confirm stock restores.
+-**Analytics & Fees:** Check 5. Student Fees to confirm the fee category and scholarship status for S101. Use 6. Class Module to view subject toppers and overall ranks.
