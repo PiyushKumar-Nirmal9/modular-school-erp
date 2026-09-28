@@ -1,7 +1,4 @@
-"""
-fee.py
-Module 5: Student fee slab categorization and scholarship eligibility.
-"""
+#Module 5
 import sys
 import os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
