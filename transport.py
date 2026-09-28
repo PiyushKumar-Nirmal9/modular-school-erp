@@ -1,7 +1,4 @@
-"""
-transport.py
-Module 4: Transportation routes, bus tracking, and enrollment sync.
-"""
+#Module 4
 
 import os
 from config import TRANSPORT_FILE
