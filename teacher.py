@@ -1,7 +1,4 @@
-"""
-teacher.py
-Module 2: Teacher directory, search, and salary updates.
-"""
+#Module 2
 
 
 import os
