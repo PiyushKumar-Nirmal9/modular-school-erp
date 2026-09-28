@@ -1,7 +1,4 @@
-"""
-library.py
-Module 3: Library catalog, book issue, and return workflow.
-"""
+#Module3
 
 import os
 from config import BOOKS_FILE, ISSUED_FILE
