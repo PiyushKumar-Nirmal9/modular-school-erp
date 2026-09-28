@@ -38,7 +38,9 @@ python3 --version
 python3 main.py
 ```
 ## Instructions for Testing
+
 -**Follow these sequential test scenarios to verify the application:**
+
 -**Transport Setup:** Go to 4. Transport then‬ 1. Add Route. Enter Route 1, a bus number, and driver details. Verify that transport_routes.txt and route_1_details.txt are created.
 -**Student Admission:** Go to 1. Student ‭then 1. Add New Student. Enter Class 10, Section A, and ID 101 (it auto-formats to S101). Choose School Transport Route 1 and enter marks. Verify that student_10_A.txt is updated and route_1_details.txt displays the student.
 -**Validation & Duplicate Prevention:** Try re-adding a student with ID S101. Verify the system blocks it with an error message.
