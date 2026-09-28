@@ -42,8 +42,12 @@ python3 main.py
 -**Follow these sequential test scenarios to verify the application:**
 
 -**Transport Setup:** Go to 4. Transport then‬ 1. Add Route. Enter Route 1, a bus number, and driver details. Verify that transport_routes.txt and route_1_details.txt are created.
+
 -**Student Admission:** Go to 1. Student ‭then 1. Add New Student. Enter Class 10, Section A, and ID 101 (it auto-formats to S101). Choose School Transport Route 1 and enter marks. Verify that student_10_A.txt is updated and route_1_details.txt displays the student.
+
 -**Validation & Duplicate Prevention:** Try re-adding a student with ID S101. Verify the system blocks it with an error message.
+
 -**Faculty & Salary:** Go to 2. Teacher then1. Add Faculty. Enter details with ID 501 (formats to T501). Test the salary hike via Option 4 and verify the updated salary in teachers.txt.
 -**Library Issue/Return:** Go to 3. Library then1. Add Book. Attempt to issue it to an invalid ID (e.g., S999) to confirm validation fails, then issue it to S101 to confirm stock decrements. Return the book to confirm stock restores.
+
 -**Analytics & Fees:** Check 5. Student Fees to confirm the fee category and scholarship status for S101. Use 6. Class Module to view subject toppers and overall ranks.
