@@ -1,7 +1,4 @@
-"""
-main.py
-Application entry point and primary interactive terminal interface.
-"""
+#Main.py
 
 import sys
 import os
