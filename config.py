@@ -1,7 +1,4 @@
-"""
-config.py
-Shared file constants for persistent text storage.
-"""
+#config.py
 
 TEACHER_FILE = "teachers.txt"
 BOOKS_FILE = "books.txt"
