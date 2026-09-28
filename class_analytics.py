@@ -1,7 +1,4 @@
-"""
-class_analytics.py
-Module 6: Section-level reports, toppers, rankings, and teacher mappings.
-"""
+#Module 6
 
 import os
 from config import TEACHER_FILE
