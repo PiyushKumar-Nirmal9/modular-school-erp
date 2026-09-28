@@ -48,6 +48,7 @@ python3 main.py
 -**Validation & Duplicate Prevention:** Try re-adding a student with ID S101. Verify the system blocks it with an error message.
 
 -**Faculty & Salary:** Go to 2. Teacher then1. Add Faculty. Enter details with ID 501 (formats to T501). Test the salary hike via Option 4 and verify the updated salary in teachers.txt.
+
 -**Library Issue/Return:** Go to 3. Library then1. Add Book. Attempt to issue it to an invalid ID (e.g., S999) to confirm validation fails, then issue it to S101 to confirm stock decrements. Return the book to confirm stock restores.
 
 -**Analytics & Fees:** Check 5. Student Fees to confirm the fee category and scholarship status for S101. Use 6. Class Module to view subject toppers and overall ranks.
