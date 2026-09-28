@@ -1,7 +1,4 @@
-"""
-student.py
-Module 1: Student profiles, mark entry, and student CRUD operations.
-"""
+#Module 1
 import os
 from utils import (
     format_student_id,
